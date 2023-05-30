@@ -14,8 +14,8 @@
                 android:title="English"
                 android:id="@+id/setEnglish"/>
             <item
-                android:id="@+id/setOrosz"
-                android:title="Русский"/>
+                android:title="Русский"
+                android:id="@+id/setOrosz"/>
         </menu>
     </item>
     <item
